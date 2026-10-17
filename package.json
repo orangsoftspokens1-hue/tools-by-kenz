@@ -1,0 +1,8 @@
+{
+  "name": "tools-by-kenz",
+  "version": "2.0.0",
+  "private": true,
+  "description": "TOOLS BY KENZ - 1000 tools and secure AI backend",
+  "scripts": {"start": "node server.js"},
+  "engines": {"node": ">=18"}
+}
